@@ -15,7 +15,7 @@ const webpackConfig = {
         ]
     },
     output: {
-        filename: '[bundle].js',
+        filename: 'bundle.js',
     },
 };
 

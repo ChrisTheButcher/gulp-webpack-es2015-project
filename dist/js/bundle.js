@@ -34297,7 +34297,7 @@
 
 	    _classCallCheck(this, HomeController);
 
-	    this.title = 'Hello World';
+	    this.title = 'Hello World!!!';
 	    this.data = [];
 
 	    HomeService.get().then(function (suc) {

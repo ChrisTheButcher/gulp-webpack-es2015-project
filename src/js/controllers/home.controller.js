@@ -1,6 +1,6 @@
 class HomeController {
     constructor(HomeService) {
-        this.title = 'Hello World';
+        this.title = 'Hello World!!!'; 
         this.data = [];
 
         HomeService.get().then(
